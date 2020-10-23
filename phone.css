@@ -1,0 +1,60 @@
+.navbar{
+    flex-direction: column;
+    align-items: center;
+}
+ul{
+    flex-direction: column;
+}
+ul li{
+    margin: 20px;
+}
+.left h2{
+    text-align: center;
+}
+.fsec{
+    flex-direction: column;
+    margin: 20px;
+}
+.fsec .card{
+    height: fit-content;
+    width: 250px;
+    margin: 20px auto;
+}
+.appimage{
+    width: 100px;
+    padding: 20px;
+    margin: auto;
+}
+.appimage img{
+    width: 100%;
+}
+.fsec .card h2{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1.0rem;
+}
+.fsec .card p{
+    font-size: 0.8rem;
+    padding: 20px;
+}
+.fsec .card input{
+    width: 150px;
+    padding: 0.5rem 1rem;
+}
+.card .vicons{
+    width: fit-content;
+}
+.burger{
+    display: block;
+}
+.h-nav{
+    height: 40px;
+}
+.v-class{
+    opacity: 1;
+}
+
+.qsec .card2{
+    margin: 20px auto;
+}
